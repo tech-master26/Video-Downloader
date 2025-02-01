@@ -25,13 +25,13 @@
 
 ```bash
 # Clone this repository
-git clone https://github.com/YourUsername/YT-Download.git
+git clone https://github.com/tech-master26/Video-Downloader.git
 
 # Navigate into the folder
-cd YT-Download
+cd Video-Downloader
 
 # Install dependencies
-pip install -r requirements.txt
+bash setup.sh
 ```
 
 ---
