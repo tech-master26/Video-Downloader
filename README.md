@@ -39,7 +39,7 @@ bash setup.sh
 ## **▶️ Usage**  
 
 ```bash
-python ytd.py
+python Downloader.py
 Enter video url here: [url]
 ```
 
