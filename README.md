@@ -1,7 +1,7 @@
-**YT-Download**
+**Video-Download**
 ---
 
-# **📥 YT-Download**  
+# **📥 Video-Download**  
 
 > **A powerful script to download YouTube videos in high quality effortlessly! 🚀**  
 
